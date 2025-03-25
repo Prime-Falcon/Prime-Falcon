@@ -38,8 +38,8 @@
 
 ### ⚠️ DISCLAIMER:
 > **We Do Not Support Any Illegal Activities.**  
-> In case of an investigation by any central entity or similar, I do not have any involvement with any group/post or with the people in it.  
-> I am here for entertainment purposes only and do not support any illegal activities.  
+> In case of an investigation by any Central entity or similar, I do not have any involvement with any group/post or with the people in it, I do not know how I am here, I do not support any actions by the members of any group/post .
+> I am here for entertainment purposes only and we do not support any illegal activities.  
 
 ---
 
