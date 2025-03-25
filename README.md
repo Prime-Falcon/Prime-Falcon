@@ -2,45 +2,69 @@
 
 ---
 
-## 🔥 Hello Warriors, Welcome to My Empire 💀
+<p align="center">
+  <img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+</p>
 
-### 👤 About Me:
-- 🖤 **Name:** Prime Falcon 💀  
-- 👑 **Real Name:** ####  
-- 😈 **Nickname:** Falcon  
-- ☪ **Religion:** Unstoppable Muslim ☄️  
-- 🇧🇩 **From:** Born in BD  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Prime+Falcon;+Not+Just+A+Name;It's+A+Brand;Welcome+To+My+Empire+💀)](https://git.io/typing-svg)
 
 ---
 
-### ⚡ My Hobbies:
-- 💻 Hacking the Unhackable  
-- 🔥 Playing with Firewalls  
-- 🎥 Watching Movies Like a Pro  
+## 🖤 Welcome To My Profile  
+
+- 🔥 **Name** :- Prime Falcon 💀  
+- 😈 **Nickname** :- Falcon  
+- ☪ **Religion** :- Unstoppable Muslim  
+- 🇧🇩 **From** :- Born In BD  
+
+---
+
+## ⚡ My Hobbies  
+- 💻 Hacking The Unhackable  
+- 🔥 Playing With Firewalls  
+- 🎥 Watching Movies Like A Pro  
 - 🛠️ Crafting Digital Mayhem  
-- ⚡ Exploring the Digital Realm  
+- 🎯 Ruling The Cyber World  
 
 ---
 
-### 🎓 Education & Other Info:
-- 🎓 **Education:** PHD in MOON 😁  
-- 🎂 **DOB:** 22 October, #### 🌟  
-- 🎯 **Goal:** Ruling the Cyber World  
+## 🎓 Education & Other Info  
+- 🎓 **Degree** :- PHD In MOON 😁  
+- 🎂 **DOB** :- 22 October  
+- 📧 **Email** :- teamsecretcyber@gmail.com  
+- 📱 **WhatsApp** :- [Click Here](https://wa.me/15123259728)  
 
 ---
 
-### 📬 Contact Me:
-- 📧 **Email:** [teamsecretcyber@gmail.com](mailto:teamsecretcyber@gmail.com)  
-- 📱 **WhatsApp:** [Click Here](https://wa.me/15123259728)  
-- 💬 **Telegram:** [@Prime_Falcon_V2](https://t.me/Prime_Falcon_V2)  
+## 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
+</p>
 
 ---
 
-### ⚠️ DISCLAIMER:
-> **We Do Not Support Any Illegal Activities.**  
-> In case of an investigation by any Central entity or similar, I do not have any involvement with any group/post or with the people in it, I do not know how I am here, I do not support any actions by the members of any group/post .
-> I am here for entertainment purposes only and we do not support any illegal activities.  
+## 🏆 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prime-Falcon&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prime-Falcon&layout=compact&theme=radical)  
 
 ---
 
-### 🖤 Thanks for Visiting My Profile! 💀
+## 🌐 Connect With Me  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Prime_Falcon_V2)  
+
+
+---
+
+## ⚠️ DISCLAIMER  
+*We Don't Support Any Illegal Activities.*  
+In case of an investigation by any Central entity or similar, I do not have any involvement with any group/post or with the people in it, I do not know how I am here, I do not support any actions by the members of any group/post .
+I do not promote or support any kind of illegal activities.  
+
+---
+
+💀 **Thanks For Visiting My Profile!** 💀
