@@ -4,18 +4,18 @@
  <b><a href="https://t.me/Prime_Falcon_V2" target="/blank"> CONTACT ME ON TELEGRAM </a></>
 </h1>
 
-<p align="center">🩵 Thanks for Being Here 🩵</p>
+
 
 
 ### Hello Warriors Welcome To My Empire 💀
 
 
-* 🖤 NAME :- ⏤͟͞〲ᴘʀɪᴍᴇ ғꫝʟᴄᴏɴ 𓊈ᴠ2𓊉 ๛ 💀
+* 🖤 NAME :- Prime Falcon  💀
 * ♾ Real Name :- #### 👑
-* ♾ Nickname :- ғꫝʟᴄᴏ 💀😈
+* ♾ Nickname :- Falcon 💀😈
 
 * 👍 Religion :- Unstoppable Muslim ☄️
- From :- Born In BD 🇧🇩
+* From :- Born In BD 🇧🇩
 
 
 ### My Hobbies:
@@ -53,4 +53,4 @@ I am here for only entertainment purpose and i don't support any illegal activit
 
 
 
-##### Thanks For Visiting My Profile 
+##### Thanks For Visiting My Profile 💀
