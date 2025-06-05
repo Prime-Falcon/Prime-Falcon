@@ -2,9 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/I Am %20 PRIME- FALCON-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Prime+Falcon;+Not+Just+A+Name;It's+A+Brand;Welcome+To+My+Empire+💀)](https://git.io/typing-svg)
 
