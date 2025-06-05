@@ -3,7 +3,6 @@
 ---
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+Am+Prime+Falcon;+Not+Just+A+Name;It's+A+Brand;Welcome+To+My+Empire+💀)](https://git.io/typing-svg)
 
 ---
 
